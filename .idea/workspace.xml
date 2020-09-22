@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68db6cc-2b10-4942-aa8b-ed084884767f" name="Default Changelist" comment="" />
+    <list default="true" id="d68db6cc-2b10-4942-aa8b-ed084884767f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <phar pharPath="C:\Open Server\OSPanel\userdata\composer\composer.phar" interpreterId="02d67500-d71a-41e6-b21b-aa8de2eeb8f3" />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,7 +44,22 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" listening_started="true" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server id="0f44e88d-30a9-4bbc-9bcb-fc678a71fa13" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/translation" />
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
@@ -81,6 +122,7 @@
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
     </include_path>
   </component>
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" />
   <component name="ProjectId" id="1hUWJXGGRsQYYao6NkSQwDhFp3P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -89,12 +131,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP_7.1-x64/php.exe" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="php artisan clear-compiled" />
+      <command value="artisan ide-helper:generate" />
+      <command value="c require --dev barryvdh/laravel-ide-helper" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" />
       <method v="2" />
     </configuration>
   </component>
@@ -106,11 +158,111 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600066081377</updated>
-      <workItem from="1600066082764" duration="609000" />
+      <workItem from="1600066082764" duration="610000" />
+      <workItem from="1600296161834" duration="1398000" />
+      <workItem from="1600297572539" duration="4386000" />
+      <workItem from="1600303620260" duration="1946000" />
+      <workItem from="1600307505126" duration="1092000" />
+      <workItem from="1600308876547" duration="726000" />
+      <workItem from="1600662258347" duration="7529000" />
+      <workItem from="1600707332836" duration="1952000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="83" key="#CLI_Interpreters" timestamp="1600709299803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="83" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1600709299803" />
+    <state x="834" y="161" key="#Web_Browsers" timestamp="1600667439789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="834" y="161" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1600667439789" />
+    <state x="384" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600667105002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="384" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600667105002" />
+    <state x="471" y="380" key="ComposerCompositePathDialog" timestamp="1600706677557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="380" key="ComposerCompositePathDialog/0.0.1536.824@0.0.1536.824" timestamp="1600706677557" />
+    <state x="543" y="327" key="ComposerInitDialogKey" timestamp="1600662459280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="327" key="ComposerInitDialogKey/0.0.1536.824@0.0.1536.824" timestamp="1600662459280" />
+    <state x="748" y="182" key="FileChooserDialogImpl" timestamp="1600709108674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="748" y="182" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600709108674" />
+    <state width="773" height="168" key="GridCell.Tab.0.bottom" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.0.center" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.0.left" timestamp="1600707315294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600707315294" />
+    <state width="773" height="168" key="GridCell.Tab.0.right" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.1.bottom" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.1.center" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.1.left" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state width="773" height="168" key="GridCell.Tab.1.right" timestamp="1600707315295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="773" height="168" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600707315295" />
+    <state x="464" y="114" key="SettingsEditor" timestamp="1600707312638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600707312638" />
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600304806967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600304806967" />
+    <state x="688" y="169" width="672" height="677" key="run.anything.popup" timestamp="1600706524908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="688" y="169" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600706524908" />
+    <state x="694" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600706520814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="694" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600706520814" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -12,8 +12,8 @@ return [
     | services your application utilizes. Set this in your ".env" file.
     |
     */
-
-    'env' => env('APP_ENV', 'production'),
+    // 'production' на 'local'
+    'env' => env('APP_ENV', 'local'),
 
     /*
     |--------------------------------------------------------------------------
@@ -147,6 +147,10 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        //add
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
+        //Barryvdh\Debugbar\ServiceProvider::class,
+
 
         /*
          * Application Service Providers...
@@ -201,6 +205,9 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+
+
+        //'Debugbar' => Barryvdh\Debugbar\Facade::class,
 
     ],
 
